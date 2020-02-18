@@ -10,7 +10,11 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+<<<<<<< HEAD
     "test": "cross-env CI=true react-scripts test --env=jsdom",
+=======
+    "test": "react-scripts test --env=jsdom",
+>>>>>>> 2e3ca472c3d1b2b7046dd4a909f715b82963b3aa
     "eject": "react-scripts eject"
   }
 }
